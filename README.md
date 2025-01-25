@@ -27,3 +27,6 @@ Whether you're a student, a career switcher, or a professional looking to upskil
 ---
 
 💻 **Start your journey today and level up your tech skills!**
+
+![logo](./assets/logo.png)
+![slogan](./assets/slogan.png)
