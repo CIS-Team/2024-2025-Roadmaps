@@ -68,7 +68,7 @@
 - Dynamic Programming Iterative will add soon
 
 <h2>
-🌐 Let's Connect!
+🧏‍♂️ Let's Connect!
 </h2>
 
 <p align="center">
