@@ -14,7 +14,11 @@ This repository contains detailed, step-by-step roadmaps for essential technical
 8. [**Game Development**](./Game-Development/)  
 9. [**Product Management**](./Product-Management/)  
 10. [**Computer Science Fundamentals**](./Computer-Science/)  
-11. [**Problem Solving**](./Problem-Solving/)  
+11. [**Problem Solving**](./Problem-Solving/)
+12. [**3D (Blender)**](./3D-(Blender)/)
+13. [**Graphic design**](./Graphic-design/)
+14. [**Motion Graphics**](./Motion-Graphics/)
+15. [**Video editing**](./Video-editing/)
 
 ## **Features:**  
 - 📚 Recommended resources (books, tutorials, and courses).  
