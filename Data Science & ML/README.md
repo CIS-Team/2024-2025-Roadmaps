@@ -13,7 +13,7 @@ This repository provides a structured and comprehensive guide for anyone interes
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) 🎥  
 - [Statistics 1](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=gQLmBslqd32JTWSE) (On YouTube) 🎥  
 - [Arbic Course](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW) 🎥  
-
+#### **Task:** [Solve this](https://docs.google.com/document/d/1Vd6U4c3G_1yb4Zc6LwsgK-tUuo5pw1rbfJ6zvTGOOo4/edit?tab=t.0)
 ### Python  
 Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1)  
 - [Big Data](https://www.youtube.com/watch?v=mlbe7Vxr7yA&list=PLrooD4hY1QqDjPYUvDsxjfh9np7DjBwAg&index=6) 🎥  
@@ -31,7 +31,8 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 ### Numpy  
 - [Codemy.com](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK) 🎥  
 - [FreeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=2844s) 🎥  
-- [Kaggle](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science) 📕  
+- [Kaggle](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science) 📕
+#### **Task:** [Solve this](https://colab.research.google.com/drive/1iThcsydhHmcsJryXXaQSNS28eG-O3_Kl?usp=sharing#scrollTo=bs6oQUx6RuSg)  
 
 ### Data Cleaning  
 - [Arbic](https://www.youtube.com/watch?v=TXiKPcbHmO8&list=PL3pZ0ZEStTyS2WYctpa6n3mxUW1GMlaQV&index=4) 🎥  
@@ -58,7 +59,8 @@ Why Python? [Show this](https://www.youtube.com/watch?v=XKQaCF_Om8o&list=PLrooD4
 ### Web Scraping  
 - [Codezilla](https://www.youtube.com/watch?v=taL3r_JpwBg) 🎥  
 - [keepcoding](https://www.youtube.com/watch?v=YiPYIlmqwdw&list=PL3pZ0ZEStTyS2WYctpa6n3mxUW1GMlaQV&index=3) 🎥  
-
+#### **Task:** Choose a category from [Amazon](https://www.amazon.com/), scrape relevant product data, and analyze insights such as pricing trends, ratings, and customer reviews.
+ 
 ### Database  
 - [Intro to Database](https://www.youtube.com/watch?v=9dW34UI520Y&list=PLSGEGD0dbMKrvd5ppnyFLm7q3xEH97T-t) 🎥  
 - [Maharatech](https://maharatech.gov.eg/course/view.php?id=740) 🎥  
@@ -112,9 +114,9 @@ Each track includes courses and skills that will help you advance in your career
 - [Book](https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view) 📕
 ### Model Deployment
  Learn how to deploy models and turn your solutions into production-ready applications.
-- [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 🎥
-- [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 🎥
-- [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 🎥
+- [FastAPI & Docker](https://www.youtube.com/watch?v=h5wLuVDr0oc) 📺
+- [Deployment using Flask](https://www.youtube.com/watch?v=oyYur3uVl4w) 📺
+- [Deployment using Streamlit](https://www.youtube.com/watch?v=5XnHlluw-Eo) 📺
 
 ## Phase 2 - Deep Learning
 ### Deep Learning
@@ -130,8 +132,23 @@ When to use? ease of use makes it perfect for research and prototyping custom mo
 When to use? for deploying large-scale production models, e.g. training and deploying an image classification model 
 - [Playlist](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) 🎥
 
+## Phase 3 - Specialization ( Choose wether to dive into NLP or CV)
+
+## Natural Language Processing - NLP
+- This field concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data.
+### Transformers
+- [Abu Bakr Soliman - Video](https://www.coursera.org/learn/generative-ai-with-llms) 📺
+### NLP
+- [Coursera Specialization ](https://www.coursera.org/specializations/natural-language-processing) 🎥
+- [Standford 2021 - Playlist](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) 🎥
+- [Ahmed Elsalab - Arabic Course](https://coursat-ai.github.io/NLP/) 🎥
+### LLMs
+- [Standford Lecture](https://www.youtube.com/watch?v=9vM4p9NN0Ts) 📺
+- [Gen AI with LLM Course](https://www.coursera.org/learn/generative-ai-with-llms) 🎥
+- [UC Berkely - Playlist](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) 🎥
 
 
+> to be continued.....
 
 
 
