@@ -397,12 +397,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
+                    <!--<li>
                       <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
                         ITI
                       </a>
                       [1 : 2]
-                    </li>
+                    </li>-->
                     <li>
                       <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=t1vJxEVVvQnmUxWX">
                         Passionate Coders
@@ -433,12 +433,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <li>
+                   <!-- <li>
                       <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
                         ITI
                       </a>
                       [2 : 4]
-                    </li>
+                    </li>-->
                   </ul>
                   <h6>🌏 English</h6>
                   <ul>
@@ -588,9 +588,9 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 1: Day 2]
-          </li>
+          </li>-->
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -619,9 +619,9 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 3: Day 4]
-          </li>
+          </li>-->
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -650,9 +650,9 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 5: Day 6]
-          </li>
+          </li>-->
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -682,9 +682,9 @@ Dives into design patterns,Covers the Model-View-Controller (MVC) architectural 
         <h5>🗂️ Resources</h5>
         <h6>🌏 Arabic</h6>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://drive.google.com/drive/folders/17J5m21likB5mQ6v2SjuQ4Zs_mSiF5rqX">ITI</a> [Day 7:8]
-          </li>
+          </li>-->
           <li>
             <a href="https://youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=ZUx9yGFbuoSJe7AE">Codographia</a>
           </li>
@@ -908,9 +908,9 @@ IAmTimCorey</a> [1]
           </li>
         </ul>
         <ul>
-          <li>
+         <!-- <li>
             <a href="https://youtu.be/zDDnt1Ez2hc?si=-Cuku4w9P2lDxsvK">ITI</a>
-          </li>
+          </li>-->
         </ul>
       </td>
     </tr>
