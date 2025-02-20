@@ -7,27 +7,34 @@
 
 ## 📌 Levels
 
-1️⃣ **[Beginner Level](#beginner-level)**  
-2️⃣ **[Intermediate Level](#intermediate-level)**  
-3️⃣ **[Advanced Level](#advanced-level)**  
-4️⃣ **[Important Topics](#important-topics)**  
+| Level | Topics |
+|--------|--------|
+| **Beginner Level** | Flutter Basics, Dart Basics, Dart Review, OOP, OOP Review, Flutter Basic Widgets, ListTiles & TextField & AppBar |
+| **Intermediate Level** | GitHub & UML Diagram, Drawer, BottomNavBar & Navigation, Practical Break: E-Commerce, Practical Break(2), SQLite Part(1), SQLite Part(2), Async Dart & API, State Management With Provider |
+| **Advanced Level** | Responsive UI & Animation & Git + GitHub, State Management with Bloc + Clean Arch intro + Clean Code, Practical Break: Google Translate Duplicate, Practical Break: Movie App, Practical Break: Ecommerce (individual), Firebase Authentication + Firestore, Firebase Firestore + Storage, Practical Break: 2-User News App (Reporter & Reader) |
+| **Important Topics** | Clean Code, Solid Principles, Architecture MVVM, Design Pattern |
 
 ---
 
 ## 🔰 Beginner Level
+---
+
 ### Week 1: Flutter Basics
 
 📚 **Content:**
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37wv)
 - [Chapter 1 (Google Drive)](https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O1sBHx2tQLTFMsO/view?usp=sharing)
-
+  
+---
 ### Week 2: Dart Basics
 
 📚 **Content:**
 
 - **Dart Programming Language (01 to 54):**  
   [Learn Dart from Scratch 2021 - From Zero to Hero](https://www.youtube.com/playlist?list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o)
+  
+---
 
 ### Week 3: Dart Basics Review
 
@@ -37,7 +44,8 @@
   [Dart Tutorial](https://www.geeksforgeeks.org/dart-tutorial/)
 - Widgets, State, Widget Tree:  
   [YouTube Video](https://youtu.be/mKVLKHKzth4)
-
+  
+---
 ### Week 4: OOP
 
 📚 **Content:**
@@ -48,6 +56,8 @@
   [YouTube Playlist](https://youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK)
   
   **Note:** Videos 54 to the end aren’t very important, so please watch them as useful knowledge but we may not focus on them on the tasks.
+  
+  ---
 
 ### Week 5: OOP Review
 
@@ -57,6 +67,8 @@
   [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
   
   **Note:** Video 11 (interface) is not important, so please watch it as useful knowledge but we may not focus on it in the tasks.
+  
+---
 
 ### Week 6: Flutter Basic Widgets
 
@@ -64,6 +76,8 @@
 
 - **Flutter Layout Widgets (to video 17 - Buttons):**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
+  
+---
 
 ### Week 7: ListTiles & TextField & AppBar
 
@@ -71,8 +85,13 @@
 
 - **Flutter Layout Widgets (from 18-Stateful widget to 29—AppBar):**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
+
+  ---
+
+  
   
 ## 🚀 Intermediate Level
+---
 
 ### Week 8: GitHub & UML Diagram
 
@@ -83,7 +102,7 @@
 - **UML Diagram:**  
   [YouTube Video](https://youtu.be/H_QtJWwvdGA?list=PLGCLD9LCH9Yi8leWyDNzK7h0N8RLTey1u)
 
-
+---
 
 ### Week 9: Drawer, BottomNavBar & Navigation
 
@@ -92,6 +111,8 @@
 - **From 30-Drawer to 41-showBottomSheet:**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
+  ---
+
 ### Practical Break: E-Commerce
 
 📚 **Content:**
@@ -99,10 +120,14 @@
 - **From 42 to 46 - Ecommerce Videos:**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
+  ---
+
 ### Practical Break(2):
   📚 **Content:**
   - **From 47-List.generate to 52-scroll:**
   -   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
+
+  --- 
 
 ### Week 10: SQLite part(1)
 
@@ -111,7 +136,9 @@
 - [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
 -   - **Some resources for Future Builder:**
     - [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
-    - 
+
+  ---
+  
 ### Week 11: SQLite part(2)
 
 📚 **Content:**
@@ -120,6 +147,8 @@
 -  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
 -  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
 -  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+  
+---
 
 ### Week 12: Async Dart & API
 
@@ -129,6 +158,8 @@
 - **Async Dart: this playlist is very good for revising some main concepts like Async, Futures, Null Safety, etc.**
 - [YouTube Video](https://youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
 
+--- 
+
 ### Week 13: State Management With Provider
 
 📚 **Content:**
@@ -136,8 +167,12 @@
 - **State Management: (91 : 97)**
 - [YouTube Playlist](https://youtube.com/playlist?list=PL3aG1K3LWCrfRhN2p7gargu-ugZuCO44a)
 
+---
+
+
 
 ## 💪 Advanced Level
+---
 
 
 ### Week 14: Responsive UI & Animation & Git + GitHub
@@ -154,6 +189,8 @@
 - -**Git & GitHub**
 - [YouTube Playlist](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUnZ2l0IGdpdGh1YiDYtNiu2KjYtyDZiNin2YbYqiDZhdiq2LfZhdmG)
 
+ ---
+
 ### Week 15:  State Management with Bloc + Clean Arch intro + Clean Code
 
 📚 **Content:**
@@ -167,27 +204,27 @@
 - [Youtube](https://www.youtube.com/playlist?list=PLwJ4sQ79Ehm4TECBpsvzOWCL91Q9bj8Ce)
 - [Youtube](https://www.youtube.com/watch?v=RXxHm1fg7y8&t=2s)
 
+---
 
   ### Practical Break: Google Translate Duplicate
 
   📚 **Content:**
-  
     -[Udemy](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic/?couponCode=24T4MT92724A)
   
-    -The rest of the course
+  -The rest of the course
   
-  -**(Necessary): Splash Screen from:**
+  **(Necessary): Splash Screen from:**
   
-    -[Youtube](https://www.youtube.com/watch?v=3rXj0zsYXys&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=6&pp=iAQB)
+  -[Youtube](https://www.youtube.com/watch?v=3rXj0zsYXys&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=6&pp=iAQB)
   
-    -[Youtube](https://www.youtube.com/watch?v=uJOuOHfAv5Y&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=7&pp=iAQB)
+  -[Youtube](https://www.youtube.com/watch?v=uJOuOHfAv5Y&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=7&pp=iAQB)
   
-  -**(Necessary): Videos (Functions + previous three videos) from: **
+  **(Necessary): Videos (Functions + previous three videos) from: **
   
-    -[Youtube](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+   -[Youtube](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 
-  
+  ---
 
 ### Practical Break: Movie app### Week 14: Movie App
 
@@ -197,15 +234,17 @@
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV )
 - **(first two videos ⇒ Introduction + Single Responsibility Principle)
   
+---
 
 ### Practical Break: Ecommerce (individual)
 
 📚 **Content:**
--**Videos (Objects & DS, Error-handling & Boundaries) from:**
-- [YouTube Playlist]([https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX))
+**Videos (Objects & DS, Error-handling & Boundaries) from:**
+
+-[YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 
-
+---
 
 ### Week 16: Firebase Authentication + Firestore
 
@@ -215,11 +254,15 @@
 - Intro about Databases: [YouTube Video](https://youtu.be/GBeWKa1Lc6I)
 - Firebase: [YouTube Playlist](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g) (From 1 to 20)
 
+---
+
 ### Week 17: Firebase Firestore + Storage
 
 📚 **Content:**
 
 - Firebase: [YouTube Playlist](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g) (From 21 to 35)
+ 
+---
 
 ### Practical Break: 2-User News App (Reporter & Reader)
 
@@ -229,7 +272,11 @@
 - [YouTube Playlist](https://www.youtube.com/watch?v=J4oFSx9yCX0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=4&t=349s&pp=iAQB)
 - [YouTube Playlist](https://www.youtube.com/watch?v=pujvJbq6va0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=5&pp=iAQB)
 
+---
+
+
 ## ⭐ Important Topics
+---
 
 ### Clean Code
 
@@ -237,17 +284,23 @@
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
+---
+
 ### Solid Principles
 
 📚 **Content:**
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
 
+---
+
 ### Architecture MVVM
 
 📚 **Content:**
 
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL3aG1K3LWCrfvjEBkx3ujAtg7yK0zzTiY)
+
+---
 
 ### Design Pattern
 
@@ -258,4 +311,3 @@
 ---
 
 ### 🌟 Keep Learning & Keep Building! 🚀
-
