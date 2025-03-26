@@ -103,6 +103,7 @@ Introduces SOLID principles, SQL, LINQ, and Entity Framework Core</p>
           <li><a href="#week10">Week 10</a></li>
           <li><a href="#week11">Week 11</a></li>
           <li><a href="#week12">Week 12</a></li>
+          <li><a href="#week13">Week 13</a></li>
         </ul>
       </div>
     </details>
@@ -393,12 +394,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                    <!--<li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                    <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [1 : 2]
-                    </li>-->
+                      [1 : 10 ]
+                    </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR&si=t1vJxEVVvQnmUxWX">
                         Passionate Coders
@@ -429,12 +430,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
-                   <!-- <li>
-                      <a href="https://youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa&si=J01bzfNEzYLb6GoQ">
-                        ITI
+                 <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6&si=C2SCIEdVzFJi-fvE">
+                        Metigator
                       </a>
-                      [2 : 4]
-                    </li>-->
+                      [11 : 18 ]
+                    </li>
                   </ul>
                   <h6>🌏 English</h6>
                   <ul>
@@ -456,6 +457,12 @@ Piece of Cake Dev  </a>[1:19]
                   <h5>🗂️ Resources</h5>
                   <h6>🌏 Arabic</h6>
                   <ul>
+                      <li>
+                      <a href="https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv&si=8gyoMjhPShGQgkhH">
+                        Metigator
+                      </a>
+                      [1 & 2 & 5]
+                    </li>
                     <li>
                       <a href="https://youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp&si=h0stidMFBlPc41">
                         DevCreed
@@ -507,6 +514,35 @@ Piece of Cake Dev  </a>[1:19]
                     <li>
                       <a href="https://youtu.be/TS5i-uPXLs8?si=mSH0rkWCSIKvzV_N">
                         Geekific</a> [1]
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+                 <tr  id="week13">
+                <td>Week 13</td>
+                <td>
+                  <h5>📚 Topics</h5>
+                  <ul>
+                    <li>Records</li>
+                    <li>Nulls in C#</li>
+                    <li>Attributes</li>
+                  </ul>
+                  <h5>🗂️ Resources</h5>
+                  <h6>🌏 Arabic</h6>
+                  <ul>
+                    <li>
+                      <a href="https://youtu.be/N2qewr8yeuI?si=j-KwY5vcT9Kw7Bq2">
+                         Metigator
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://youtu.be/6-AdjwK43hM?si=HATjAnrhA1vWke48">
+                         Metigator
+                      </a>
+                    </li>           <li>
+                      <a href="https://youtu.be/UkGF0SJzDN4?si=WGsixGxBzsqz1wSa">
+                         Metigator
+                      </a>
                     </li>
                   </ul>
                 </td>
@@ -846,7 +882,8 @@ Dive into advanced  topics, backend optimizations, and advanced database techniq
         <ul>
           <li><a href="#week31">Week 1</a></li>
           <li><a href="#week32">Week 2</a></li>
-          <li><a href="#week33">Week 3</a></li>
+          <li><a href="#week33">Week 3</a></li>   
+          <li><a href="#week44">Week 4</a></li>   
        </ul>
       </div>
     </details>
@@ -919,6 +956,29 @@ IAmTimCorey</a> [1]
         <ul>
           <li>
             <a href="https://youtube.com/playlist?list=PLLGdqRi7N09Yv1kSFXi40dnEAJriaE8nJ&si=XhH9HKuAyUpeFO9w">Code It Up  AMBITIONED</a>
+          </li>
+        </ul>
+        <ul>
+        </ul>
+      </td>
+       </td> <tr id="week44">
+      <td>Week 4</td>
+      <td>
+        <h5>📚 Topics</h5>
+        <ul>
+          <li> Configuration in ASP.NET Core </li>
+          <li>  Structured Logging  [only first 46 minutes and 40 seconds]  </li>
+          <li>  Options pattern  </li>
+        </ul>
+        <h5>🗂️ Resources</h5>
+        <ul>
+          <li>
+            <a href="https://youtu.be/5GlgHV_12-k?si=mkasth2V_jFhbB7_">Rahul Nath</a>
+          </li>
+        <li>
+            <a href="https://youtu.be/_iryZxv8Rxw?si=fRF8EvTH_Egv6OrE">IAmTimCorey</a>
+          </li>  <li>
+            <a href="https://youtu.be/SizJCLcjbOA?si=wrVpJl0L39HMr9wP">Rahul Nath</a>
           </li>
         </ul>
         <ul>
