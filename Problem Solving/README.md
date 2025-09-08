@@ -63,9 +63,9 @@
 
 - BFS : [ICPC Mansoura](https://youtu.be/AuGNPvbfy4A?si=pi4guJAUKYJ-z9Bj) or [Muhammad Magdi](https://youtu.be/iJOB2lo39n0?si=IqB76GrCpHd5jwAC)
 
-- Dynamic Programming recursive will add soon
+- Dynamic Programming recursive [ICPC Mansoura](https://youtu.be/gZoIkvSpHHg?si=78ai64ZezMm7dHkP)
 
-- Dynamic Programming Iterative will add soon
+- Dynamic Programming Iterative [ICPC Mansoura](https://youtu.be/w9aKOzbZrDk?si=8mMErKv1UbjcnZ11)
 
 <h2>
 🧏‍♂️ Let's Connect!
@@ -82,4 +82,5 @@
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
