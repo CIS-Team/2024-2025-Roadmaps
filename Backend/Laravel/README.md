@@ -147,7 +147,7 @@
 
  <summary>PHP Basics</summary>
 
- ***Always Check the Laravel documentation - make it a habit :)***
+ ***Always Check the PHP documentation - make it a habit :)***
  
 
   <summary> Master your editor</summary>
@@ -247,7 +247,7 @@
 <details>
  <summary>Laravel Basics</summary>
 
-  ***Always Check the PHP documentation - make it a habit :)***
+  ***Always Check the Laravel documentation - make it a habit :)***
 
 📽️ [Backend Bootcamp: Laravel & Backend Introduction - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
 
