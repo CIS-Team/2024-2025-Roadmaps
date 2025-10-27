@@ -147,11 +147,18 @@
 
  <summary>PHP Basics</summary>
 
+ ***Always Check the PHP documentation - make it a habit :)***
+ 
+
   <summary> Master your editor</summary>
 
-📹 [PHPStorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
+📹 [PHPStorm](https://laracasts.com/series/phpstorm-for-laravel-developers) ***Highly Recommended***
 
-📽️ [Learn PHP 8 in Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+📽️ [Learn PHP 8 in Arabic](https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&si=sVlOQu6m3ZqmqpTJ)
+
+#### OR
+
+📽️[PHP Course For Beginners](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih) ***Highly Recommended***
 
 #### OR
 
@@ -189,6 +196,10 @@
 
 📽️ [Introduction to OOP](https://www.youtube.com/watch?v=gUNVnOIK7CM&list=PL71ekc7LvuXK5irXyxo2tRI8fm9QIm0Gj)
 
+#### Book
+
+[programming PHP 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+
 </details>
 
 <details>
@@ -215,6 +226,7 @@
 > After Watching the Previous You Need to Deep and Practise so Must See it
 >
 📽️ [PHP for Beginners Laracasts 2023-Ed - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+****I recommended checking out any simple template and starting your first project while following along****
 </details>
 
 <details>
@@ -235,15 +247,15 @@
 <details>
  <summary>Laravel Basics</summary>
 
+  ***Always Check the PHP documentation - make it a habit :)***
+
 📽️ [Backend Bootcamp: Laravel & Backend Introduction - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
 
-📽️ [Laravel 8 from Scratch - Jeffry Way](https://laracasts.com/series/laravel-8-from-scratch) ***Highly Recommended***
+📽️ [30 Days to learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11)***Highly Recommended***
 
 #### OR
 
 📽️ [Laravel from Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
-
-📽️ [Laravel 10 Beginners Course](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
 
 📖 [Laravel Up & Running](books/Matt%20Stauffer%20-%20Laravel_%20Up%20&%20Running_%20A%20Framework%20for%20Building%20Modern%20PHP%20Apps-O’Reilly%20Media%20(2019).pdf)
 
@@ -254,14 +266,23 @@
 
 ***First Watch to Know How to Apply***
 
-📽️ [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
+ 
 
 📽️ [Multi-Vendor Store - Arabic](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 ***Highly Recommended***
 
+📽️ [Twitter Clone Project](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
+
+
 📽️ [Laravel PHP Framework - Insta Clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
 📽️ [Laravel From Scratch 2022 - Laragigs](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=3)
+
+📽️ [Twitter Clone project](https://laracasts.com/series/laravel-6-from-scratch)
+
+#### OR
+
+📽️ [Twitter Clone project](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
 
 ***After That You Need to Apply Alone - Search about Templates***
 
@@ -278,6 +299,9 @@
 📽️ [Laravel Filament Roles and Permissions](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
 
 📽️ [Filament Daily Channel for Tips](https://www.youtube.com/@FilamentDaily)
+
+#### Now build full project with filament
+[Ecommerce with filament](https://www.youtube.com/playlist?list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2NDWT)
 </details>
 
 <details>
@@ -291,6 +315,15 @@
 
 📽️ [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
 ***Recommended after One or Two Videos Watched***
+
+***Recommended to watch those three videos***
+
+📽️ [first one](https://youtu.be/73k06nDXmqM?si=H4oz-Bdd8ckFeVZm)
+
+📽️ [Second one](https://youtu.be/73Z_nadv_0U?si=bQaC6yg8PBtswnS1)
+
+📽️ [third one](https://youtu.be/l5zy8xgbJ6w?si=uE7Fm8kMfucNPAcG)
+
 </details>
 
 > ***Here You Need to Search About API Documentation***
