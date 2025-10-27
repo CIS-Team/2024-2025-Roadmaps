@@ -147,7 +147,7 @@
 
  <summary>PHP Basics</summary>
 
- ***Always Check the PHP documentation - make it a habit :)***
+ ***Always Check the Laravel documentation - make it a habit :)***
  
 
   <summary> Master your editor</summary>
