@@ -271,9 +271,6 @@
 📽️ [Multi-Vendor Store - Arabic](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
 ***Highly Recommended***
 
-📽️ [Twitter Clone Project](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
-
-
 📽️ [Laravel PHP Framework - Insta Clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
 📽️ [Laravel From Scratch 2022 - Laragigs](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=3)
